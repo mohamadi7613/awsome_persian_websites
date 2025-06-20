@@ -11,15 +11,11 @@
 
 ### Collection websites
 
-- [](http://www.link.ir/)
-- [](https://didi.ir/site-list/)
+- [link.ir](http://www.link.ir/) -
+- [didi](https://didi.ir/site-list/) -
 
 
 
-### ?????
-
-- [Farsiland](https://farsiland.com) - Search engine with local Iranian focus  
-- [Iranian Search](https://iraniansearch.ir) - General Persian language search platform 
 
 
 ### Social Media
