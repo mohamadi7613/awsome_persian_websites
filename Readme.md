@@ -1,17 +1,84 @@
 
 ### Search Engines  
 
+- [Zarebin](https://zarebin.ir/) - Iranian search engine
+- [Rismoon](https://rismoon.ir) - Persian search engine
+- [Barnamenevis](https://barnamenevis.ir/) - Search engine for programmers
+- [Gerdoo](https://gerdoo.me/) - Persian search engine
+- [Magiran](https://www.magiran.com/) - Iran's Publications Database
+- [Noormags](https://www.noormags.ir/) - The largest bank of articles on Islamic sciences
 
-- [Zarbin.ir](https://zarebin.ir) - Iranian search engine
-- [Rismoon](https://rismoon.ir) - Persian search engine and directory  
-- [Farsiland](https://farsiland.ir) - Search engine with local Iranian focus  
-- [Shabestan Search](https://shabestan.ir) - Specialized search engine for Islamic content  
-- [Iranian Search](https://iraniansearch.ir) - General Persian language search platform  
-- [Medline Iran](https://medlineiran.ir) - Medical search engine and database  
-- [Namaa](https://namaa.ir) - Search and directory for Iranian startups and businesses  
-- [Gama](https://gama.ir) - Educational content search engine  
-- [Parsico Search](https://parsico.ir) - General purpose Iranian search engine  
 
+### Collection websites
+
+- [](http://www.link.ir/)
+- [](https://didi.ir/site-list/)
+
+
+
+### ?????
+
+- [Farsiland](https://farsiland.com) - Search engine with local Iranian focus  
+- [Iranian Search](https://iraniansearch.ir) - General Persian language search platform 
+
+
+### Social Media
+
+- [Rubica]() -
+- [Soroush Plus]() -
+- [Lenzor]() -
+- [Wisgoon]() -
+- [Cloob]() -
+- [Facenama]() - Facebook alternative
+
+
+### Messenger
+- [Bale]() -
+- [Etaa]() -
+- [IGap]() -
+
+### Email
+
+### Video Platforms
+
+- [Aparat](https://www.aparat.com/) -
+- [Dalfak](https://www.dalfak.com/) -
+- [Namayesh](https://www.namayesh.com/) -
+- [Namasha](https://namasha.com/) -
+- [Tamasha](https://tamasha.com/) - 
+- [Jabeh](https://jabeh.com/) -
+- [Mihan Video](https://mihanvideo.com/) -
+
+
+
+### Download
+
+- [](https://www.yasdl.com/) - 
+- [](https://download.ir/) - 
+- [](https://www.downloadha.com/) - 
+- [](https://soft98.ir/) - 
+- [](https://p30download.ir/) - 
+- [](https://downloadly.ir/) - 
+
+
+### Sanctions breaker
+
+- [](https://shecan.ir/) - 
+- [](https://begzar.ir/) - 
+- [](https://hostiran.net/landing/proxy) - 
+- [](https://server.ir/dns-proxy/) - 
+- [](https://github.com/VanillaApp) - open source
+
+
+### Iran IP
+
+- [](https://iran-ip.com/) - 
+- [](https://ip-iran.co/) - 
+
+### Hosting and Cloud
+
+### Uploading platform
+- [](https://www.picofile.com/)
 
 ### News and News Agencies  
 
@@ -27,7 +94,11 @@
 - [Asr Iran](https://www.asriran.com) - Analytical, moderate tendencies
 - [Fararu](https://www.fararu.com) - Independent, leaning reformist
 - [Entekhab](https://www.entekhab.ir) - Critical of hardliners
+- [Shabestan](https://shabestan.news) - Shabestan news 
 
+
+
+### Governmental
 
 ### Government Services and Portals  
 
@@ -67,7 +138,6 @@
 - [Financial Tribune](https://financialtribune.com) - Economic and financial news in English and Persian  
 - [Bourse Press](https://boursepress.com) - Stock market and investment news  
 - [Iran Economic News Agency (ECNA)](https://ecnanews.com) - Economic news and analysis  
-- [Tsetmc](https://tsetmc.com) - Tehran Stock Exchange market data and reports  
 - [IBENA](https://ibena.ir) - Investment news and economic reports  
 - [Khabar Online - Economy Section](https://khabaronline.ir/news/economy) - Economy news from Khabar Online  
 - [Sarmayeh News](https://sarmayehnews.com) - Economic and market news  
@@ -85,7 +155,7 @@
 - [Rahnamaie](https://rahnamaie.com) - Investment advisory and stock analysis  
 - [Sahamdaran](https://sahamdaran.com) - Stockholders’ news and community platform  
 
-### bank
+### Bank
 
 - [Bank Melli Iran](https://bmi.ir) - Official website of Bank Melli Iran  
 - [Bank Mellat](https://bankmellat.ir) - Website of Bank Mellat  
@@ -97,6 +167,18 @@
 - [Bank Keshavarzi](https://bki.ir) - Agricultural Bank of Iran  
 - [Central Bank of Iran](https://cbi.ir) - Central bank and monetary policies  
 - [Bank Refah](https://refah-bank.ir) - Refah Bank’s official website  
+
+
+### Insurance
+
+
+### Job platforms
+
+- [jobinja]() -
+- [jobvision]() -
+- [e-estekhdam]() -
+- [iran talent]() -
+- [ponisha]() -
 
 ### E-commerce and Online Stores  
 
@@ -111,18 +193,27 @@
 - [Charsoo](https://charsoo.ir) - Online shopping platform with various categories  
 - [Torob](https://torob.com) - Price comparison and online shopping assistant  
 
-### Education  
+### Requirements platform
 
-- [Maktabkhooneh](https://maktabkhooneh.org) - Online educational platform with university-level courses  
-- [Faradars](https://faradars.org) - Persian online learning platform with video tutorials  
-- [Hamyar Academy](https://hamyar.co) - IT and programming courses in Persian  
-- [TahlilGaran](https://tahlilgaran.org) - Educational content and tutorials  
-- [Iran University of Science and Technology](https://iust.ac.ir) - Official university website with academic resources  
-- [Noor Academy](https://nooracademy.ir) - Online courses and training in various fields  
-- [Rayanmehr](https://rayanmehr.ir) - Online training and professional development  
-- [Gaj](https://gaj.ir) - Educational resources for school students  
-- [Amuzeshtv](https://amuzeshtv.ir) - Educational videos and tutorials  
-- [Amoozesh](https://amoozesh.tv) - Online video courses and tutorials  
+- [](https://www.sheypoor.com/) -
+- [](https://www.divar.com/) -
+
+
+### Offer platfporms
+- [](https://takhfifan.com/) -
+- [](https://netbarg.com/) -
+
+### Online food
+- [](https://snappfood.ir/)
+- [](https://www.delino.com/)
+
+
+### Online taxi
+- [](https://snapp.ir/)
+- [](https://tapsi.ir/)
+- [](https://www.carpino.ir//)
+- [](https://alopeyk.com/)
+
 
 ### Tourism and Travel  
 
@@ -136,6 +227,11 @@
 - [Iran Hotels](https://iranhotels.org) - Hotel booking platform  
 - [Irantoour](https://irantoour.com) - Iran travel tours and packages  
 - [Tourism Bank](https://tourbank.ir) - Financial services related to tourism  
+
+### Maps
+
+- [](https://balad.ir)
+- [](https://neshan.org/)
 
 
 ### Transportation  
@@ -202,8 +298,6 @@
 
 ### Music
 
-- [Farsi Music](https://farsimusic.ir) - Persian music archive and downloads  
-- [Honarmand Music](https://honarmand.ir/music) - Music section of Honarmand news platform  
 - [download1 Music](https://download1music.ir/) - Download music 
 - [Sakh Music](https://sakhamusic.ir/) - Download music
 
@@ -221,12 +315,12 @@
 - [Iranian Movie Database](https://iranact.com) - Database of Iranian cinema, actors, and directors  
 - [Khabargozari Mehr - Cinema](https://mehrnews.com/service/Cinema) - Cinema news from Mehr News Agency  
 - [Aparat - Movies](https://aparat.com/movies) - Iranian movies and trailers on Aparat  
+- [Namava](https://www.namava.ir/) - Watching movies online
 
 
 
 
-### books
-
+### Books
 
 - [Ketab.ir](https://ketab.ir) - Iran Book House official database of published books  
 - [NashreNey](https://nashreney.com) - Official website of Ney Publishing  
@@ -239,11 +333,17 @@
 - [Hamshahri Book](https://book.hamshahrionline.ir) - Book reviews and recommendations  
 - [Karaketab](https://karaketab.com) - Rare and old books store in Iran  
 
+### Book Reader
+
+- [Fidibo](https://fidibo.com) - Audiobooks and eBooks with Persian content  
+- [Taghche]() -
+- [Ketabrah]() -
+- [Ketabnak]() -
+
 
 ### Audiobooks and Podcasts  
 
 - [Navaar](https://navaar.ir) - Iranian audiobook and podcast platform  
-- [Fidibo](https://fidibo.com) - Audiobooks and eBooks with Persian content  
 - [Castbox Iran](https://castbox.fm) - Podcast platform with Persian channels  
 - [Radio Javan Podcast](https://radiojavan.com/podcasts) - Persian music and talk podcasts  
 - [Podbean Persian](https://podbean.com/podcast-network/persian-podcasts) - Persian podcasts on various topics  
@@ -298,6 +398,27 @@
 - [Lingo Learn](https://lingolearn.ir) - Online language learning platform focused on English and German  
 
 
+### Dictionary
+
+- [](https://abadis.ir) - 
+- [](https://www.ir-translate.com/) - 
+- [](https://dic.b-amooz.com/) - 
+- [](https://fastdic.com/) - 
+- [](https://targoman.ir/) - 
+- [](https://www.faraazin.ir/)
+
+### Online course  
+
+- [Maktabkhooneh](https://maktabkhooneh.org) - Online educational platform with university-level courses  
+- [Faradars](https://faradars.org) - Persian online learning platform with video tutorials  
+- [Hamyar Academy](https://hamyar.co) - IT and programming courses in Persian  
+- [TahlilGaran](https://tahlilgaran.org) - Educational content and tutorials  
+- [Iran University of Science and Technology](https://iust.ac.ir) - Official university website with academic resources  
+- [Noor Academy](https://nooracademy.ir) - Online courses and training in various fields  
+- [Rayanmehr](https://rayanmehr.ir) - Online training and professional development  
+- [Gaj](https://gaj.ir) - Educational resources for school students  
+- [Amuzeshtv](https://amuzeshtv.ir) - Educational videos and tutorials  
+- [Amoozesh](https://amoozesh.tv) - Online video courses and tutorials  
 
 ### Immigration and Residency  
 
@@ -406,6 +527,9 @@
 
 ### Health and Medicine  
 
+
+- [Iran Public Health](https://ijph.tums.ac.ir) - Iranian Journal of Public Health 
+- [Iran Microbiology](https://ijmm.ir/) - Iranian Journal of Medical Microbiology
 - [Salamat News](https://salamatnews.com) - News and articles on health and medicine  
 - [Pezeshkan Iran](https://pezeshkan.org) - Directory of doctors and medical centers  
 - [Iran Ministry of Health - Disease Management Center](https://behdasht.gov.ir) - Disease information and statistics  
@@ -494,7 +618,11 @@
 - [Bacheha.ir](https://bacheha.ir) - Online resources and activities for children  
 
 
+### School and Education
+- [Gama](https://gama.ir/) -
 
+
+### Universities
 
 ### Religion
 
@@ -552,9 +680,10 @@
 - [Sakhtafzar](https://sakhtafzar.com) - Hardware reviews and news  
 
 
+### Common tools
+- [](https://www.time.ir/) -
 
 ### Programming  
-
 
 - [TahlilGaran](https://tahlilgaran.org) - Tutorials and articles on programming and software development  
 - [Faradars](https://faradars.org) - Persian video courses including programming and IT  
@@ -589,7 +718,10 @@
 - [Androidiran](https://androidiran.ir) - Android app news and downloads  
 - [AppReview](https://appreview.ir) - Mobile app reviews and recommendations  
 - [Persian Mobile](https://persianmobile.ir) - Mobile phone news and app guides  
-- [Bazaar News](https://blog.cafebazaar.ir) - Updates and news from Cafe Bazaar app store  
+- [Bazaar News](https://blog.cafebazaar.ir) - Updates and news from Cafe Bazaar app store 
+- [](https://sibjo.ir) - 
+- [](https://myket.ir/) - 
+- [](https://sibirani.com/)
 
 ### Marketing and Advertising  
 
@@ -618,6 +750,10 @@
 - [Techrasa Reports](https://reports.techrasa.com) - Research and analysis on Iranian startups  
 - [Namaa](https://namaa.ir) - Startup ecosystem and business news in Iran  
 - [Iran ICT Guild Organization](https://ictguild.ir) - Information and communication technology business news  
+- [Ecomotive](https://ecomotive.ir) - News and list of Iranian statups
+- [Bahasanj](https://bahasanj.ir/) - Rank your startup
+- [Melli Startup](https://mellistartup.com/) - Build your startup
+- [Darkob](https://darkob.co.ir/) - Sign Intellectual Property
 
 
 
