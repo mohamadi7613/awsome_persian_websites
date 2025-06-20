@@ -15,9 +15,6 @@
 - [didi](https://didi.ir/site-list/) -
 
 
-
-
-
 ### Social Media
 
 - [Rubica]() -
@@ -49,32 +46,32 @@
 
 ### Download
 
-- [](https://www.yasdl.com/) - 
-- [](https://download.ir/) - 
-- [](https://www.downloadha.com/) - 
-- [](https://soft98.ir/) - 
-- [](https://p30download.ir/) - 
-- [](https://downloadly.ir/) - 
+- [yasdl](https://www.yasdl.com/) - 
+- [download.ir](https://download.ir/) - 
+- [downloadha](https://www.downloadha.com/) - 
+- [soft98](https://soft98.ir/) - 
+- [p30download](https://p30download.ir/) - 
+- [downloadly](https://downloadly.ir/) - 
 
 
 ### Sanctions breaker
 
-- [](https://shecan.ir/) - 
-- [](https://begzar.ir/) - 
-- [](https://hostiran.net/landing/proxy) - 
-- [](https://server.ir/dns-proxy/) - 
-- [](https://github.com/VanillaApp) - open source
+- [shecan](https://shecan.ir/) - 
+- [begzar](https://begzar.ir/) - 
+- [hostiran](https://hostiran.net/landing/proxy) - 
+- [server.ir](https://server.ir/dns-proxy/) - 
+- [VanillaApp](https://github.com/VanillaApp) - open source
 
 
 ### Iran IP
 
-- [](https://iran-ip.com/) - 
-- [](https://ip-iran.co/) - 
+- [iran-ip](https://iran-ip.com/) - 
+- [ip-iran](https://ip-iran.co/) - 
 
 ### Hosting and Cloud
 
 ### Uploading platform
-- [](https://www.picofile.com/)
+- [picofile](https://www.picofile.com/)
 
 ### News and News Agencies  
 
@@ -191,24 +188,24 @@
 
 ### Requirements platform
 
-- [](https://www.sheypoor.com/) -
-- [](https://www.divar.com/) -
+- [sheypoor](https://www.sheypoor.com/) -
+- [divar](https://www.divar.com/) -
 
 
 ### Offer platfporms
-- [](https://takhfifan.com/) -
-- [](https://netbarg.com/) -
+- [takhfifan](https://takhfifan.com/) -
+- [netbarg](https://netbarg.com/) -
 
 ### Online food
-- [](https://snappfood.ir/)
-- [](https://www.delino.com/)
+- [snappfood](https://snappfood.ir/)
+- [delino](https://www.delino.com/)
 
 
 ### Online taxi
-- [](https://snapp.ir/)
-- [](https://tapsi.ir/)
-- [](https://www.carpino.ir//)
-- [](https://alopeyk.com/)
+- [snapp](https://snapp.ir/)
+- [tapsi](https://tapsi.ir/)
+- [carpino](https://www.carpino.ir//)
+- [alopeyk](https://alopeyk.com/)
 
 
 ### Tourism and Travel  
@@ -226,8 +223,8 @@
 
 ### Maps
 
-- [](https://balad.ir)
-- [](https://neshan.org/)
+- [balad](https://balad.ir)
+- [neshan](https://neshan.org/)
 
 
 ### Transportation  
@@ -396,12 +393,14 @@
 
 ### Dictionary
 
-- [](https://abadis.ir) - 
-- [](https://www.ir-translate.com/) - 
-- [](https://dic.b-amooz.com/) - 
-- [](https://fastdic.com/) - 
-- [](https://targoman.ir/) - 
-- [](https://www.faraazin.ir/)
+- [abadis](https://abadis.ir) - 
+- [ir-translate](https://www.ir-translate.com/) - 
+- [bamooz](https://dic.b-amooz.com/) - 
+- [fastdic](https://fastdic.com/) - 
+
+### Translator
+- [targoman](https://targoman.ir/) - 
+- [faraazin](https://www.faraazin.ir/)
 
 ### Online course  
 
@@ -677,7 +676,7 @@
 
 
 ### Common tools
-- [](https://www.time.ir/) -
+- [time.ir](https://www.time.ir/) -
 
 ### Programming  
 
@@ -715,9 +714,9 @@
 - [AppReview](https://appreview.ir) - Mobile app reviews and recommendations  
 - [Persian Mobile](https://persianmobile.ir) - Mobile phone news and app guides  
 - [Bazaar News](https://blog.cafebazaar.ir) - Updates and news from Cafe Bazaar app store 
-- [](https://sibjo.ir) - 
-- [](https://myket.ir/) - 
-- [](https://sibirani.com/)
+- [sibjo](https://sibjo.ir) - 
+- [myket](https://myket.ir/) - 
+- [sibirani](https://sibirani.com/)
 
 ### Marketing and Advertising  
 
